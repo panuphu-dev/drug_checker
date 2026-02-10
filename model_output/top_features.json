@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "สตร",
+    "importance": 0.251535
+  },
+  {
+    "feature": "งค",
+    "importance": 0.177347
+  },
+  {
+    "feature": "เผาผลาญ ไขม",
+    "importance": 0.127255
+  },
+  {
+    "feature": "มก ต",
+    "importance": 0.078431
+  },
+  {
+    "feature": "ไขม น",
+    "importance": 0.035712
+  },
+  {
+    "feature": "หลากหลาย",
+    "importance": 0.029571
+  },
+  {
+    "feature": "ใช",
+    "importance": 0.023742
+  },
+  {
+    "feature": "ประจำเด",
+    "importance": 0.021572
+  },
+  {
+    "feature": "อาการ ปวดเม",
+    "importance": 0.02039
+  },
+  {
+    "feature": "and",
+    "importance": 0.014289
+  },
+  {
+    "feature": "ตร",
+    "importance": 0.013939
+  },
+  {
+    "feature": "ม อาหาร",
+    "importance": 0.011476
+  },
+  {
+    "feature": "ประจำเด อน",
+    "importance": 0.011381
+  },
+  {
+    "feature": "vitamin",
+    "importance": 0.011116
+  },
+  {
+    "feature": "ยน เลขท",
+    "importance": 0.009071
+  },
+  {
+    "feature": "ตาลาย",
+    "importance": 0.008201
+  },
+  {
+    "feature": "เทพ",
+    "importance": 0.006989
+  },
+  {
+    "feature": "กเล",
+    "importance": 0.006041
+  },
+  {
+    "feature": "กทม",
+    "importance": 0.005437
+  },
+  {
+    "feature": "เอ",
+    "importance": 0.005279
+  },
+  {
+    "feature": "อน",
+    "importance": 0.004625
+  },
+  {
+    "feature": "แพทย",
+    "importance": 0.004396
+  },
+  {
+    "feature": "วน",
+    "importance": 0.004187
+  },
+  {
+    "feature": "ำ",
+    "importance": 0.003937
+  },
+  {
+    "feature": "ยา หอม",
+    "importance": 0.003767
+  },
+  {
+    "feature": "กษา",
+    "importance": 0.003659
+  },
+  {
+    "feature": "ว ตาม",
+    "importance": 0.003596
+  },
+  {
+    "feature": "ด",
+    "importance": 0.003372
+  },
+  {
+    "feature": "แผง",
+    "importance": 0.003371
+  },
+  {
+    "feature": "ทะเบ ยน",
+    "importance": 0.003109
+  }
+]

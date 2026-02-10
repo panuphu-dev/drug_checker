@@ -1,0 +1,100 @@
+{
+  "best_model": "Gradient Boosting",
+  "n_samples": 510,
+  "n_legal": 473,
+  "n_illegal": 37,
+  "n_features": 5000,
+  "cv_folds": 5,
+  "all_results": {
+    "Logistic Regression": {
+      "accuracy": 0.9353,
+      "precision": 0.6,
+      "recall_sensitivity": 0.3243,
+      "specificity": 0.9831,
+      "f1_score": 0.4211,
+      "auc_roc": 0.8688,
+      "confusion_matrix": [
+        [
+          465,
+          8
+        ],
+        [
+          25,
+          12
+        ]
+      ]
+    },
+    "SVM (RBF)": {
+      "accuracy": 0.9196,
+      "precision": 0.0,
+      "recall_sensitivity": 0.0,
+      "specificity": 0.9915,
+      "f1_score": 0.0,
+      "auc_roc": 0.8462,
+      "confusion_matrix": [
+        [
+          469,
+          4
+        ],
+        [
+          37,
+          0
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.9255,
+      "precision": 0.4444,
+      "recall_sensitivity": 0.1081,
+      "specificity": 0.9894,
+      "f1_score": 0.1739,
+      "auc_roc": 0.842,
+      "confusion_matrix": [
+        [
+          468,
+          5
+        ],
+        [
+          33,
+          4
+        ]
+      ]
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9314,
+      "precision": 0.5417,
+      "recall_sensitivity": 0.3514,
+      "specificity": 0.9767,
+      "f1_score": 0.4262,
+      "auc_roc": 0.7895,
+      "confusion_matrix": [
+        [
+          462,
+          11
+        ],
+        [
+          24,
+          13
+        ]
+      ]
+    },
+    "Naive Bayes": {
+      "accuracy": 0.8804,
+      "precision": 0.3182,
+      "recall_sensitivity": 0.5676,
+      "specificity": 0.9049,
+      "f1_score": 0.4078,
+      "auc_roc": 0.7888,
+      "confusion_matrix": [
+        [
+          428,
+          45
+        ],
+        [
+          16,
+          21
+        ]
+      ]
+    }
+  }
+}
